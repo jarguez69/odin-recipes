@@ -1,2 +1,2 @@
 # odin-recipes
-Repository fot practice
+Repository for practice
